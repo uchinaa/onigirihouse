@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>Onigiri House</title>
+    <link href="https://uchinaa.github.io/onigirihouse/feed.xml" rel="self" />
+    <link href="https://uchinaa.github.io/onigirihouse" />
+    <updated>1969-12-31T16:00:00-08:00</updated>
+    <author>
+        <name>Saige Carter</name>
+    </author>
+    <id>https://uchinaa.github.io/onigirihouse</id>
+
+</feed>

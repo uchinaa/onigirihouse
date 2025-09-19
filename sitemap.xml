@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="https://uchinaa.github.io/onigirihouse/sitemap.xsl"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+<url>
+<loc>https://uchinaa.github.io/onigirihouse/</loc>
+</url>
+<url>
+<loc>https://uchinaa.github.io/onigirihouse/catering.html</loc>
+<lastmod>2025-09-17T01:34:44-07:00</lastmod>
+</url>
+<url>
+<loc>https://uchinaa.github.io/onigirihouse/contact-info-goes-here-henny.html</loc>
+<lastmod>2025-09-17T01:49:49-07:00</lastmod>
+</url>
+<url>
+<loc>https://uchinaa.github.io/onigirihouse/menu.html</loc>
+<lastmod>2025-09-17T01:34:31-07:00</lastmod>
+</url>
+<url>
+<loc>https://uchinaa.github.io/onigirihouse/test.html</loc>
+<lastmod>2025-09-19T03:16:24-07:00</lastmod>
+</url>
+</urlset>
